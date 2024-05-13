@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-svelte-svg",
+  "name": "@hazycora/vite-plugin-svelte-svg",
   "version": "2.4.0",
   "description": "Vite 5.x plugin to load SVG files as Svelte components",
   "main": "index.js",
@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/metafy-gg/vite-plugin-svelte-svg.git"
+    "url": "git+https://git.gay/h/vite-plugin-svelte-svg.git"
   },
   "keywords": [
     "vite-plugin"
   ],
-  "author": "Metafy <engineering@metafy.gg>",
+  "author": "hazycora",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/metafy-gg/vite-plugin-svelte-svg/issues"
+    "url": "https://git.gay/h/vite-plugin-svelte-svg/issues"
   },
-  "homepage": "https://github.com/metafy-gg/vite-plugin-svelte-svg#readme"
+  "homepage": "https://git.gay/h/vite-plugin-svelte-svg#readme"
 }

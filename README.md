@@ -1,10 +1,10 @@
 # Vite Svelte SVG
 
-Vite 3.x plugin to transform SVGs into Svelte components.
+Vite 5.x plugin to transform SVGs into Svelte components.
 
 It also optimizes your SVGs by running them thru [svgo](https://github.com/svg/svgo).
 
-![npm](https://img.shields.io/npm/v/vite-plugin-svelte-svg)
+![npm](https://img.shields.io/npm/v/@hazycora/vite-plugin-svelte-svg)
 
 ```svelte
 <script>
@@ -21,7 +21,7 @@ It also optimizes your SVGs by running them thru [svgo](https://github.com/svg/s
 <summary>NPM</summary>
 
 ```
-npm install vite-plugin-svelte-svg --save-dev
+npm install @hazycora/vite-plugin-svelte-svg --save-dev
 ```
 
 </details>
@@ -29,7 +29,7 @@ npm install vite-plugin-svelte-svg --save-dev
 <summary>Yarn</summary>
 
 ```
-yarn add -D vite-plugin-svelte-svg
+yarn add -D @hazycora/vite-plugin-svelte-svg
 ```
 
 </details>
@@ -37,7 +37,7 @@ yarn add -D vite-plugin-svelte-svg
 <summary>pnpm</summary>
 
 ```
-pnpm add -D vite-plugin-svelte-svg
+pnpm add -D @hazycora/vite-plugin-svelte-svg
 ```
 
 </details>
@@ -47,7 +47,7 @@ pnpm add -D vite-plugin-svelte-svg
 ### `vite.config.js`
 
 ```js
-import svelteSVG from "vite-plugin-svelte-svg";
+import svelteSVG from "@hazycora/vite-plugin-svelte-svg";
 
 export default {
   plugins: [
