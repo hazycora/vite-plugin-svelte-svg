@@ -1,6 +1,6 @@
 {
   "name": "@hazycora/vite-plugin-svelte-svg",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Vite 5.x plugin to load SVG files as Svelte components",
   "main": "index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.gay/h/vite-plugin-svelte-svg.git"
+    "url": "https://git.gay/h/vite-plugin-svelte-svg.git"
   },
   "keywords": [
     "vite-plugin"
